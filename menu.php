@@ -1,9 +1,6 @@
 <?php echo "Main";
-    echo "<br>";
-    echo "Product";
-    echo "<br>";
-    echo "Aboutme";
-    echo "<br>";
-    echo "Map";
-    echo "<br>";
+    echo "<h1>หน้าหลัก</h1>";
+    echo "<h1>สินค้า</h1>";
+    echo "<h1>เกี่ยวกับเรา</h1>";
+    echo "<h1>แผนที่</h1>";
     ?>
